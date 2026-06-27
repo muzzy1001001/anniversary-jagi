@@ -222,12 +222,12 @@ export default function Home() {
 
           {/* Title */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-dark-brown font-[family-name:var(--font-gochi)] mb-4 leading-tight">
-            Our Story 🤎
+            365 days of Love
           </h1>
 
           {/* Subtitle */}
           <p className="text-base md:text-lg text-medium-brown font-[family-name:var(--font-nunito)] tracking-wide">
-            June 2025 – June 2026 · 1 Year Together
+            June 2025 – June 2026 · a recap of our journey together
           </p>
 
           {/* Begin button */}
@@ -235,7 +235,7 @@ export default function Home() {
             onClick={beginStory}
             className="mt-12 inline-flex items-center gap-2 px-8 py-4 bg-medium-brown text-cream rounded-full text-base font-[family-name:var(--font-nunito)] font-semibold shadow-lg hover:bg-dark-brown active:scale-95 transition-all duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-dark-brown/50"
           >
-            Begin Our Story
+            Begin
             <svg
               className="w-5 h-5"
               fill="none"

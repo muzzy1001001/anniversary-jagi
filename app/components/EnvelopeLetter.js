@@ -38,20 +38,20 @@ export default function EnvelopeLetter({ phase, direction }) {
     };
   }, [overlayVisible]);
 
-  const letterBody = `My dearest love,
+  const letterBody = `My dearest Jagi,
 
-A year ago, I didn't know that a Jollibee in MTS would change my life forever. But there you were.
+A year ago, I didn't know that our meet at Jollibee would change my life forever. But here we are, celebrating our 1st anniversary.
 
-I've kissed you on the cheeks at Jacks Ridge, held your hand at UM Matina, missed you from Bohol, chased you through the rain at HQ, and shared unli ribs with you at Ribshack — and I would do every single one of those days again.
+We've walked many kilometers together, shared countless laughs, and created memories that I will cherish forever. From our first meet to our 1st anniversary, every moment with you has been a treasure.
 
-Dili perpekto ang akong pagmahal. Naa koy mga sayop, naa koy mga panahon nga nabigo ko nimo — and I am sorry for each one.
+I am super grateful for your love, your patience, and your unwavering support. You have been my rock, my confidant, and my best friend. I am so lucky to have you in my life.
 
-But there is not a single day I have not been grateful that you said yes on June 27.
+For more monthsaries, more matching shoes, more Japanese food, more everything — basta kauban ta.
 
-For more monthsaries, more matching shoes, more Japanese food, more quiet days, more everything — as long as it's with you.
+As for my anniversary gift, Mag adto tag flea market, let have some fun there, didto ko mamalit saimong gifts on the spot.
 
 Happy 1st anniversary, myjagi.
-I love you — from Jagi. 🤎`;
+I love you — from Jagibordz. 🤎`;
 
   return (
     <div className={`w-full flex flex-col items-center ${getAnimationClass()}`}>
@@ -194,7 +194,7 @@ I love you — from Jagi. 🤎`;
             </div>
 
             <div className="mt-5 text-right text-sm italic font-[family-name:var(--font-nunito)] text-[#a07858]">
-              June 26, 2026
+              June 27, 2026
             </div>
 
             <button
@@ -202,7 +202,7 @@ I love you — from Jagi. 🤎`;
               onClick={handleClose}
               className="mt-6 mx-auto block text-[#7b4f2e] font-[family-name:var(--font-gochi)] text-lg hover:opacity-80 transition-opacity focus:outline-none focus-visible:ring-2 focus-visible:ring-medium-brown focus-visible:ring-offset-2 focus-visible:ring-offset-[#fffaf5] rounded"
             >
-              fold back 🕊️
+              fold back
             </button>
           </div>
         </div>

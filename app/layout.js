@@ -14,7 +14,7 @@ const nunito = Nunito({
 });
 
 export const metadata = {
-  title: "Our Story 🤎",
+  title: "Jaginiversary",
   description: "June 2025 – June 2026 · 1 Year Together",
 };
 
